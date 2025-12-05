@@ -1,0 +1,27 @@
+{
+  "name": "focus-rpc",
+  "version": "1.0.0",
+  "description": "made with focus",
+  "keywords": [
+    "focus"
+  ],
+  "homepage": "https://github.com/focusonn/JS-DiscordRPC#readme",
+  "bugs": {
+    "url": "https://github.com/focusonn/JS-DiscordRPC/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/focusonn/JS-DiscordRPC.git"
+  },
+  "license": "ISC",
+  "author": "focus",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-rpc": "^4.0.1"
+  }
+}
