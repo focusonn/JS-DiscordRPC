@@ -18,8 +18,8 @@ A simple Node.js project to show a **custom Rich Presence** on Discord using [`d
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/username/discord-rpc-example.git
-cd discord-rpc-example
+git clone https://github.com/focusonn/JS-DiscordRPC.git
+cd JS-DiscordRPC
 ````
 
 2. **Install dependencies**
